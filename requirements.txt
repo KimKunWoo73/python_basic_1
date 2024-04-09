@@ -9,3 +9,5 @@ patsy
 scikit-learn
 beautifulsoup4
 streamlit
+selenium
+html5
